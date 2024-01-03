@@ -1,4 +1,4 @@
-### Hello Real World 👋, I am Elpah
+#### Hello Real World 👋, I am Elpah
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXR3dDEzNzh5aDEycmw4djU1ejNxN2lkdXdwN3lkeHJiMHhtemhtdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"/>
 </div>
@@ -42,7 +42,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elpah&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-### How to reach me :
+### :mailbox: How to reach me :
 
 <div id="">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
