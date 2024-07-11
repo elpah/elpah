@@ -8,7 +8,7 @@
 - 🚀 Software Developer with a passion for creating impactful solutions
 - 🌐 Specialized in React, Typescript, and Javascript
 ### :hammer_and_wrench: Languages and Tools :
-<div style="display: flex; justify-content: center; flex-wrap: wrap;">
+<div style="display: flex; justify-content: center;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="45" height="45"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="45" height="45"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="45" height="45"/>&nbsp;
