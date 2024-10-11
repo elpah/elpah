@@ -4,9 +4,11 @@
 </div>
   
 ### About Me
-- 💻 Computer Engineer by training
+- 💻 Computer Engineer(B.Sc) by training - graduated in June 2022
+- 👨‍💻 Currently pursuing another studies in Software Engineering at 42 Wolfsburg
 - 🚀 Software Developer with a passion for creating impactful solutions
-- 🌐 Specialized in React, Typescript, and Javascript
+- 🌐 Specialized in both frontend and backend Techonologies including Typescript, Javascript,  (React, Nextjs), C, C++ Nodejs, Express, Mongodb, mySql, REST, HTML, CSS
+ 
 ### :hammer_and_wrench: Languages and Tools :
 <div style="display: flex; justify-content: center;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="45" height="45"/>&nbsp;
