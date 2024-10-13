@@ -4,10 +4,10 @@
 </div>
   
 ### About Me
-- 💻 Computer Engineer(B.Sc) by training - graduated in June 2022
+- 💻 Computer Engineer(B.Sc) - graduated in June 2022
 - 👨‍💻 Currently pursuing another studies in Software Engineering at 42 Wolfsburg
 - 🚀 Software Developer with a passion for creating impactful solutions
-- 🌐 Specialized in both frontend and backend Techonologies including Typescript, Javascript,  (React, Nextjs), C, C++ Nodejs, Express, Mongodb, mySql, REST, HTML, CSS
+- 🌐 Specialized in both frontend and backend Techonologies including Typescript, Javascript, (React, Nextjs), C, C++ Nodejs, Express, Mongodb, mySql, REST, HTML, CSS
  
 ### :hammer_and_wrench: Languages and Tools :
 <div style="display: flex; justify-content: center;">
