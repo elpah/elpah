@@ -57,7 +57,3 @@
 </div>
 </div>
 
-
-
-
-![](https://komarev.com/ghpvc/?username=elpah)
