@@ -1,13 +1,13 @@
 ## Hello Real World 👋, I am Elpah
 <div id="header" align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXR3dDEzNzh5aDEycmw4djU1ejNxN2lkdXdwN3lkeHJiMHhtemhtdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"/>
 </div>
   
 ### About Me
 - 💻 Computer Engineer(B.Sc) - graduated in June 2022
-- 👨‍💻 Currently pursuing another studies in Software Engineering at 42 Wolfsburg
-- 🚀 Software Developer with a passion for creating impactful solutions
+- 🚀 Software Developer
 - 🌐 Specialized in both frontend and backend techonologies including Typescript, Javascript, (React, Nextjs), C, C++ Nodejs, Express, Mongodb, mySql, REST, HTML, CSS
+- 👨‍💻 Currently pursuing another studies in Software Engineering at 42 Wolfsburg
+
  
 ### :hammer_and_wrench: Languages and Tools :
 <div style="display: flex; justify-content: center;">
