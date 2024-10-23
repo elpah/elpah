@@ -7,7 +7,7 @@
 - 🚀 Software Developer
 - 🌐 Specialized in both frontend and backend techonologies including:
 
-  Typescript,Javascript, (React, Nextjs), Nodejs, Express, Mongodb, mySql, REST, HTML, CSS
+  Typescript,Javascript, (React, Nextjs), Nodejs, Express, Mongodb, mySql, REST API, HTML, CSS
 - 👨‍💻 Currently pursuing another studies in Software Engineering at 42 Wolfsburg
 
  
