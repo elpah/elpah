@@ -4,7 +4,7 @@
 
 ### About Me
 - 🌐 Software Developer proficient in both frontend **(React, Typescript, NextJS)**  and Backend **(NodeJS, ExpressJS, REST API)** techonologies.
-- 🛠️ Additional skills include **(MongoDB, SQL, Firebase, Git, GitHub)** and familiarity with agile methodologies.
+- 🛠️ Additional skills include **(MongoDB, Firebase, Git, GitHub)** and familiarity with agile methodologies.
 - 🎓 Computer Engineer(B.Sc) - graduated in June 2022.
 - 👨‍💻 Currently pursuing another studies in Software Engineering at 42 Wolfsburg
 
@@ -24,7 +24,6 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind Css" alt="Tailwind Css" width="45" height="45"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="45" height="45"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="45" height="45"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL"  alt="MySQL" width="45" height="45"/>&nbsp;
 </div>
 
 ### :fire: My Stats :
