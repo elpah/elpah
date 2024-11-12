@@ -1,14 +1,15 @@
 ## Hello Real World 👋, I am Elpah
 <div id="header" align="center">
 </div>
-  
-### About Me
-- 💻 Computer Engineer(B.Sc) - graduated in June 2022
-- 🌐 Software Developer specialized in both frontend and backend techonologies
-- Skills include:
-  Typescript,Javascript, (React, Nextjs), Nodejs, Express, Mongodb, mySql, REST API
-- 👨‍💻 Currently pursuing another studies in Software Engineering at 42 Wolfsburg
 
+### About Me
+- 
+- 🌐 Software Developer proficient in both frontend **(React, Typescript, NextJS)**  and Backend **(NodeJS, ExpressJS, REST API)** techonologies.
+- 🛠️ Additional skills include **(MongoDB, SQL, Firebase, Git, GitHub)** and familiarity with agile methodologies.
+- 👨‍💻 Currently pursuing another studies in Software Engineering at 42 Wolfsburg
+- 🎓 Computer Engineer(B.Sc) - graduated in June 2022.
+
+- 🚗 Currently working on a MERN Stack **(MongoDB, Express, React, NodeJS)** project for a car company.
  
 ### :hammer_and_wrench: Languages and Tools :
 <div style="display: flex; justify-content: center;">
