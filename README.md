@@ -5,12 +5,11 @@
 ### About Me
 - 🌐 Software Developer proficient in both frontend **(React, Typescript, NextJS)**  and Backend **(NodeJS, ExpressJS, REST API)** techonologies.
 - 🛠️ Additional skills include **(MongoDB, SQL, Firebase, Git, GitHub)** and familiarity with agile methodologies.
-- 👨‍💻 Currently pursuing another studies in Software Engineering at 42 Wolfsburg
 - 🎓 Computer Engineer(B.Sc) - graduated in June 2022.
+- 👨‍💻 Currently pursuing another studies in Software Engineering at 42 Wolfsburg
+
 <br/>
 
-- 🚗 Currently working on a MERN Stack **(MongoDB, Express, React, NodeJS)** project for a car company.
- 
 ### :hammer_and_wrench: Languages and Tools :
 <div style="display: flex; justify-content: center;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="45" height="45"/>&nbsp;
