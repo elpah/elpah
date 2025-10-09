@@ -12,9 +12,9 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 <br/>
- <div style="display: flex; justify-content: center;"> 
+<p align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="45" height="45"/>&nbsp;
- </div>
+ </p>
   <div style="display: flex; justify-content: center;"> 
      <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJs" alt="NextJs" width="45" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDb" alt="MongoDb" width="45" height="45"/>&nbsp;
@@ -25,14 +25,14 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="45" height="45"/>&nbsp;
     </div>
 
-       <div style="display: flex; justify-content: center;"> 
+   <div style="display: flex; justify-content: center;"> 
    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="45" height="45"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="45" height="45"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="45" height="45"/>;
     <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind Css" alt="Tailwind Css" width="45" height="45"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="45" height="45"/>&nbsp;
+     <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="45" height="45"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="45" height="45"/>&nbsp;
-     </div>
+    </div>
 
 <!-- <div style="display: flex; justify-content: center;"> -->
   
