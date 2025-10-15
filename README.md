@@ -5,7 +5,7 @@
 ### About Me
 - 🌐 Software Developer proficient in both frontend **(React, Typescript, NextJS)**  and Backend **(NodeJS, ExpressJS, REST API)** techonologies.
 - 💻 Strong foundation in systems programming using **C/C++**.  
-- 🛠️ Additional skills include **(MongoDB, Firebase, Git, GitHub)** and familiarity with agile methodologies.
+- 🛠️ Additional skills include **(MySQL, MongoDB, Firebase, Git, GitHub)** and familiarity with agile methodologies.
 - 🎓 Computer Engineer(B.Sc) - graduated in June 2022.
 
 <br/>
